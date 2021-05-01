@@ -9,7 +9,7 @@
 </p>  
 
 <p align="center">
-  <img height="240" width="860" src="https://github.com/RishikeshDhayarkar/AWS_ML_projects/blob/main/aws_ml_proj_pics/reg_1.png">
+  <img height="200" width="860" src="https://github.com/RishikeshDhayarkar/AWS_ML_projects/blob/main/aws_ml_proj_pics/reg_1.png">
 </p>  
 
 <p align="center">
