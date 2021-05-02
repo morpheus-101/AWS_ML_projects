@@ -1,11 +1,11 @@
 # AWS_ML_projects
 This repository consists of 3 Machine Learning serverless applications deployed on AWS.
 AWS services used:
-AWS lambda for serverless compute
-S3 for storing the trained ML model and the function code
-API gateway for accepting HTTP requests and formatting HTTP responses
-Cloudwatch for monitoring data about function executions
-Cloudformation to monitor various serverless stacks
+* AWS lambda for serverless compute
+* S3 for storing the trained ML model and the function code
+* API gateway for accepting HTTP requests and formatting HTTP responses
+* Cloudwatch for monitoring data about function executions
+* Cloudformation to monitor various serverless stacks
 </br>
 </br>
 </br>
